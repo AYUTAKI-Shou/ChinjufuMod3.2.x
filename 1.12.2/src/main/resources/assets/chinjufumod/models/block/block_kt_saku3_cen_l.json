@@ -1,0 +1,13 @@
+{
+	"parent": "chinjufumod:block/base_kotatsu3_cen_l",
+    "textures": {
+		"particle": "chinjufumod:blocks/planks_sakura",
+		"tea": "chinjufumod:blocks/tea_green",
+		"yunomi": "chinjufumod:blocks/dish_green",
+        "mikan": "chinjufumod:blocks/mikan",
+		"sara": "chinjufumod:blocks/muku_spruce",
+		"ten": "chinjufumod:blocks/planks_sakura",
+		"futon": "chinjufumod:blocks/kotatsufuton_saku",
+		"leg": "chinjufumod:blocks/muku_sakura"
+	}
+}
