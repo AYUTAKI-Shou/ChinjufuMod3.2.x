@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"normal": [
+			{ "model": "chinjufumod:block_carpet_ichoh" },
+			{ "model": "chinjufumod:block_carpet_ichoh", "y": 90 },
+			{ "model": "chinjufumod:block_carpet_ichoh", "y": 180 },
+			{ "model": "chinjufumod:block_carpet_ichoh", "y": 270 }
+		]
+	}
+}
