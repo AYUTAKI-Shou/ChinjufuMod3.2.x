@@ -1,0 +1,11 @@
+{
+    "parent": "chinjufumod:block/base_garasudo_closed_l",
+	"textures": {
+		"particle": "chinjufumod:blocks/muku_acacia",
+		"ji": "blocks/glass",
+		"ita": "blocks/planks_acacia",
+		"waku": "chinjufumod:blocks/muku_acacia",
+		"totte": "chinjufumod:blocks/muku_bigoak",
+		"rail": "chinjufumod:blocks/muku_jungle"
+	}
+}
