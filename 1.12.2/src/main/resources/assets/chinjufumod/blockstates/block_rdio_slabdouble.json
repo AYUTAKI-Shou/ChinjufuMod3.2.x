@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=top": { "model": "minecraft:diorite" },
+		"half=bottom": { "model": "minecraft:diorite" }
+    }
+}
