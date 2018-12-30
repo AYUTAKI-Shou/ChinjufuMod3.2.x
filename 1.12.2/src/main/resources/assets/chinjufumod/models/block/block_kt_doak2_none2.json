@@ -1,0 +1,11 @@
+{
+	"parent": "chinjufumod:block/base_kotatsu2_none2",
+    "textures": {
+		"particle": "blocks/planks_big_oak",
+		"senbei": "chinjufumod:blocks/senbei",
+		"sara": "chinjufumod:blocks/muku_spruce",
+		"ten": "blocks/planks_big_oak",
+		"futon": "chinjufumod:blocks/kotatsufuton_doak",
+		"leg": "chinjufumod:blocks/muku_bigoak"
+	}
+}
