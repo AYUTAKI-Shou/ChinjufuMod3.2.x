@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "chinjufumod:block_nabe_milk", "y": 180 },
+    "facing=south": { "model": "chinjufumod:block_nabe_milk" },
+    "facing=west":  { "model": "chinjufumod:block_nabe_milk", "y": 90 },
+    "facing=east":  { "model": "chinjufumod:block_nabe_milk", "y": 270 }
+  }
+}
