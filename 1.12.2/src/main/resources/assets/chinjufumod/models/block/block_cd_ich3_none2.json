@@ -1,0 +1,10 @@
+{
+	"parent": "chinjufumod:block/base_chabudai3_none2",
+    "textures": {
+		"particle": "chinjufumod:blocks/planks_ichoh",
+        "mikan": "chinjufumod:blocks/mikan",
+		"sara": "chinjufumod:blocks/muku_spruce",
+		"ten": "chinjufumod:blocks/planks_ichoh",
+		"leg": "chinjufumod:blocks/muku_ichoh"
+    }
+}

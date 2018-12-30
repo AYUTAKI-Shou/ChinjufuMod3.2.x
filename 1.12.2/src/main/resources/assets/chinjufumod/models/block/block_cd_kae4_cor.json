@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base_chabudai3_cor",
+    "textures": {
+		"particle": "chinjufumod:blocks/planks_kaede",
+		"kyusu": "chinjufumod:blocks/dish_brown",
+		"ten": "chinjufumod:blocks/planks_kaede",
+		"leg": "chinjufumod:blocks/muku_kaede"
+    }
+}
