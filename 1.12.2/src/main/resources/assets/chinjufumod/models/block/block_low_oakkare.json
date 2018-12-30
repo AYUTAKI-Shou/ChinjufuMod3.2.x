@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base_lowtree",
+	"textures": {
+		"particle": "blocks/log_oak",
+		"leaves": "chinjufumod:blocks/leaf_oak_kare",
+		"log_top": "blocks/log_oak_top",
+		"log": "blocks/log_oak"
+	}
+}

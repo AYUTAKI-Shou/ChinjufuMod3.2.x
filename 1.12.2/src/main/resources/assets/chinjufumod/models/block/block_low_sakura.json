@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base_lowtree",
+	"textures": {
+		"particle": "chinjufumod:blocks/log_sakura",
+		"leaves": "chinjufumod:blocks/flower_sakura",
+		"log_top": "chinjufumod:blocks/log_sakura_top",
+		"log": "chinjufumod:blocks/log_sakura"
+	}
+}

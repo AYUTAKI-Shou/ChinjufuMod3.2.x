@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base_longtree_bot",
+	"textures": {
+		"particle": "chinjufumod:blocks/log_ichoh",
+		"miki": "chinjufumod:blocks/log_ichoh",
+		"miki_top": "chinjufumod:blocks/log_ichoh_top",
+		"ha": "chinjufumod:blocks/leaf_ichoh"
+	}
+}

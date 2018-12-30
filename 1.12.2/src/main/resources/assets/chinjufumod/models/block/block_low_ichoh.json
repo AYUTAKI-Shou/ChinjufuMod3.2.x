@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base_lowtree",
+	"textures": {
+		"particle": "chinjufumod:blocks/log_ichoh",
+		"leaves": "chinjufumod:blocks/leaf_ichoh",
+		"log_top": "chinjufumod:blocks/log_ichoh_top",
+		"log": "chinjufumod:blocks/log_ichoh"
+	}
+}

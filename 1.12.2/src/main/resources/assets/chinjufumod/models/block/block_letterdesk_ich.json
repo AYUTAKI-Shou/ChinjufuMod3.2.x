@@ -1,0 +1,11 @@
+{
+	"parent": "chinjufumod:block/base_letterdesk",
+	"textures": {
+		"particle":"chinjufumod:blocks/planks_ichoh",
+		"top": "chinjufumod:blocks/trayletter_top",
+		"sidet": "chinjufumod:blocks/tray_side",
+		"side": "chinjufumod:blocks/planks_ichoh",
+		"item": "chinjufumod:blocks/letterfude_item",
+		"leg": "chinjufumod:blocks/muku_ichoh"
+	}
+}

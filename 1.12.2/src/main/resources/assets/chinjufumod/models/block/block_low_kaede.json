@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base_lowtree",
+	"textures": {
+		"particle": "chinjufumod:blocks/log_kaede",
+		"leaves": "chinjufumod:blocks/leaf_kaede",
+		"log_top": "chinjufumod:blocks/log_kaede_top",
+		"log": "chinjufumod:blocks/log_kaede"
+	}
+}
