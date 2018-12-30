@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=top": { "model": "minecraft:andesite" },
+		"half=bottom": { "model": "minecraft:andesite" }
+    }
+}
