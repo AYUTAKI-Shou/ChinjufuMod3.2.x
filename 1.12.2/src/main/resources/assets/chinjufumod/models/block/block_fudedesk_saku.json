@@ -1,0 +1,11 @@
+{
+	"parent": "chinjufumod:block/base_fudedesk",
+    "textures": {
+		"particle":"chinjufumod:blocks/planks_sakura",
+        "top": "chinjufumod:blocks/trayfude_top",
+        "sidet": "chinjufumod:blocks/tray_side",
+        "side": "chinjufumod:blocks/planks_sakura",
+        "item": "chinjufumod:blocks/letterfude_item",
+		"leg": "chinjufumod:blocks/muku_sakura"
+	}
+}
