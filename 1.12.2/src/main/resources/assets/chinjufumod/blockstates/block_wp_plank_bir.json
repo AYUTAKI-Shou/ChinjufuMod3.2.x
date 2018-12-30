@@ -1,0 +1,20 @@
+{
+	"variants": {
+		"facing=north,pil=1": { "model": "chinjufumod:block_wp_plank_birch", "y": 180 },
+		"facing=south,pil=1": { "model": "chinjufumod:block_wp_plank_birch" },
+		"facing=west,pil=1":	{ "model": "chinjufumod:block_wp_plank_birch", "y": 90 },
+		"facing=east,pil=1":	{ "model": "chinjufumod:block_wp_plank_birch", "y": 270 },
+		"facing=north,pil=2": { "model": "chinjufumod:block_wp_pillar_birch", "y": 180 },
+		"facing=south,pil=2": { "model": "chinjufumod:block_wp_pillar_birch" },
+		"facing=west,pil=2":	{ "model": "chinjufumod:block_wp_pillar_birch", "y": 90 },
+		"facing=east,pil=2":	{ "model": "chinjufumod:block_wp_pillar_birch", "y": 270 },
+		"facing=north,pil=3": { "model": "chinjufumod:block_wp_pillar_birch_leng", "y": 180 },
+		"facing=south,pil=3": { "model": "chinjufumod:block_wp_pillar_birch_leng" },
+		"facing=west,pil=3":	{ "model": "chinjufumod:block_wp_pillar_birch_leng", "y": 90 },
+		"facing=east,pil=3":	{ "model": "chinjufumod:block_wp_pillar_birch_leng", "y": 270 },
+		"facing=north,pil=4": { "model": "chinjufumod:block_wp_pillar_birch_top", "y": 180 },
+		"facing=south,pil=4": { "model": "chinjufumod:block_wp_pillar_birch_top" },
+		"facing=west,pil=4":	{ "model": "chinjufumod:block_wp_pillar_birch_top", "y": 90 },
+		"facing=east,pil=4":	{ "model": "chinjufumod:block_wp_pillar_birch_top", "y": 270 }
+	}
+}
