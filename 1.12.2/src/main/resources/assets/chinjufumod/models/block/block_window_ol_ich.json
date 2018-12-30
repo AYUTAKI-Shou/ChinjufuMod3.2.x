@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base_window_ol",
+	"textures": {
+		"particle": "chinjufumod:blocks/window_ichoh",
+		"front": "chinjufumod:blocks/window_ichoh",
+		"side": "chinjufumod:blocks/muku_ichoh",
+		"rail": "chinjufumod:blocks/muku_ichoh"
+	}
+}
