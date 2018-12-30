@@ -1,0 +1,7 @@
+{
+	"parent": "chinjufumod:block/base_carpet_leaf",
+	"textures": {
+		"particle": "chinjufumod:blocks/carpet_kaede",
+		"ha": "chinjufumod:blocks/carpet_kaede"
+	}
+}
