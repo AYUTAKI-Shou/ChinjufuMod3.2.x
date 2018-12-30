@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base_kamoi_new3",
+	"textures": {
+		"particle": "chinjufumod:blocks/dirtwall",
+		"shikkui": "chinjufumod:blocks/dirtwall",
+		"ki": "chinjufumod:blocks/pillar_jungle_side",
+		"ki_top": "chinjufumod:blocks/pillar_jungle_top"
+	}
+}

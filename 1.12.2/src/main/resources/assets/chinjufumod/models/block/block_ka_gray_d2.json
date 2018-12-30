@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base_kamoi_new2",
+	"textures": {
+		"particle": "chinjufumod:blocks/plaster_gray",
+		"shikkui": "chinjufumod:blocks/plaster_gray",
+		"ki": "chinjufumod:blocks/pillar_bigoak_side",
+		"ki_top": "chinjufumod:blocks/pillar_bigoak_top"
+	}
+}
