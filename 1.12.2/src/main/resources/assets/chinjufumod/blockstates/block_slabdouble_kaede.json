@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=top": { "model": "chinjufumod:block_planks_kaede" },
+		"half=bottom": { "model": "chinjufumod:block_planks_kaede" }
+    }
+}

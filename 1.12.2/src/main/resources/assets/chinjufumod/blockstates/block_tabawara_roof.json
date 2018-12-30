@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"facing=north,half=bottom": { "model": "chinjufumod:block_tabawara_rf_bot", "y": 90 },
+		"facing=south,half=bottom": { "model": "chinjufumod:block_tabawara_rf_bot", "y": 270 },
+		"facing=west,half=bottom":	{ "model": "chinjufumod:block_tabawara_rf_bot", "y": 0 },
+		"facing=east,half=bottom":	{ "model": "chinjufumod:block_tabawara_rf_bot", "y": 180 },
+
+		"facing=north,half=top": { "model": "chinjufumod:block_tabawara_rf_top", "y": 90 },
+		"facing=south,half=top": { "model": "chinjufumod:block_tabawara_rf_top", "y": 270 },
+		"facing=west,half=top":	{ "model": "chinjufumod:block_tabawara_rf_top", "y": 0 },
+		"facing=east,half=top":	{ "model": "chinjufumod:block_tabawara_rf_top", "y": 180 }
+	}
+}

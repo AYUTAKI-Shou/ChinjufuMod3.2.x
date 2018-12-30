@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom": { "model": "chinjufumod:block_slabhalf_kaede_bottom" },
+        "half=top": { "model": "chinjufumod:block_slabhalf_kaede_top" }
+    }
+}

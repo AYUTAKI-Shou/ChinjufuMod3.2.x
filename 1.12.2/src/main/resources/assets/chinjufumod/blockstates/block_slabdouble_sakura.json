@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=top": { "model": "chinjufumod:block_planks_sakura" },
+		"half=bottom": { "model": "chinjufumod:block_planks_sakura" }
+    }
+}

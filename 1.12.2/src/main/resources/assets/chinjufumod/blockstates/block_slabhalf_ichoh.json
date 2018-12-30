@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom": { "model": "chinjufumod:block_slabhalf_ichoh_bottom" },
+        "half=top": { "model": "chinjufumod:block_slabhalf_ichoh_top" }
+    }
+}
