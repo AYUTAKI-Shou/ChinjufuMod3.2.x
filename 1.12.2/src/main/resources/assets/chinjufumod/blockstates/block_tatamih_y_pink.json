@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"facing=north,half=bottom": { "model": "chinjufumod:block_tatamih_y_pink_bot", "y": 0 },
+		"facing=south,half=bottom": { "model": "chinjufumod:block_tatamih_y_pink_bot", "y": 0 },
+		"facing=west,half=bottom": { "model": "chinjufumod:block_tatamih_y_pink_bot", "y": 90 },
+		"facing=east,half=bottom": { "model": "chinjufumod:block_tatamih_y_pink_bot", "y": 90 },
+
+		"facing=north,half=top": { "model": "chinjufumod:block_tatamih_y_pink_top", "y": 0 },
+		"facing=south,half=top": { "model": "chinjufumod:block_tatamih_y_pink_top", "y": 0 },
+		"facing=west,half=top": { "model": "chinjufumod:block_tatamih_y_pink_top", "y": 90 },
+		"facing=east,half=top": { "model": "chinjufumod:block_tatamih_y_pink_top", "y": 90 }
+	}
+}
