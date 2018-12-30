@@ -1,0 +1,12 @@
+{
+	"parent": "chinjufumod:block/base_chabudai2_cen",
+    "textures": {
+		"particle": "chinjufumod:blocks/planks_sakura",
+		"tea": "chinjufumod:blocks/tea_green",
+		"yunomi": "chinjufumod:blocks/dish_green",
+		"senbei": "chinjufumod:blocks/senbei",
+		"sara": "chinjufumod:blocks/muku_spruce",
+		"ten": "chinjufumod:blocks/planks_sakura",
+		"leg": "chinjufumod:blocks/muku_sakura"
+    }
+}
