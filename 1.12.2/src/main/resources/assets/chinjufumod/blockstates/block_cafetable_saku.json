@@ -1,0 +1,20 @@
+{
+"variants": {
+    "back=false,forward=true,left=false,right=true": {"model": "chinjufumod:block_ctable_cor_saku", "y": 270, "uvlock": true},
+    "back=false,forward=true,left=true,right=false": {"model": "chinjufumod:block_ctable_cor_saku", "y": 180, "uvlock": true},
+    "back=true,forward=false,left=false,right=true": {"model": "chinjufumod:block_ctable_cor_saku","uvlock": true},
+    "back=true,forward=false,left=true,right=false": {"model": "chinjufumod:block_ctable_cor_saku", "y": 90, "uvlock": true },
+    "back=false,forward=true,left=false,right=false": { "model": "chinjufumod:block_ctable_end_saku", "y": 270, "uvlock": true },
+    "back=false,forward=false,left=false,right=true": { "model": "chinjufumod:block_ctable_end_saku","uvlock": true },
+    "back=false,forward=false,left=true,right=false": { "model": "chinjufumod:block_ctable_end_saku", "y": 180, "uvlock": true },
+    "back=true,forward=false,left=false,right=false": { "model": "chinjufumod:block_ctable_end_saku", "y": 90, "uvlock": true },
+    "back=false,forward=false,left=false,right=false": { "model": "chinjufumod:block_ctable_cen_saku","uvlock": true },
+    "back=true,forward=true,left=false,right=false": { "model": "chinjufumod:block_ctable_non_saku", "y": 90, "uvlock": true },
+    "back=false,forward=false,left=true,right=true": { "model": "chinjufumod:block_ctable_non_saku", "uvlock": true },
+    "back=false,forward=true,left=true,right=true": { "model": "chinjufumod:block_ctable_non2_saku", "uvlock": true },
+    "back=true,forward=false,left=true,right=true": { "model": "chinjufumod:block_ctable_non2_saku", "y": 180, "uvlock": true },
+    "back=true,forward=true,left=false,right=true": { "model": "chinjufumod:block_ctable_non2_saku", "y": 90, "uvlock": true },
+    "back=true,forward=true,left=true,right=false": { "model": "chinjufumod:block_ctable_non2_saku", "y": 270, "uvlock": true },
+    "back=true,forward=true,left=true,right=true": { "model": "chinjufumod:block_ctable_non3_saku","uvlock": true }
+    }
+}
