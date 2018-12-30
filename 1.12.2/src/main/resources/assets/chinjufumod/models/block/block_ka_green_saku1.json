@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base_kamoi_new1",
+	"textures": {
+		"particle": "chinjufumod:blocks/plaster_green",
+		"shikkui": "chinjufumod:blocks/plaster_green",
+		"ki": "chinjufumod:blocks/pillar_sakura_side",
+		"ki_top": "chinjufumod:blocks/pillar_sakura_top"
+	}
+}
