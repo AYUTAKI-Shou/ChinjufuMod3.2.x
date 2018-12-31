@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "chinjufumod",
+
+	"ingredients": [
+		{ "item": "minecraft:water_bucket" },
+		{ "item": "chinjufumod:item_warahai" },
+		{ "item": "chinjufumod:block_food_zundou" }
+	],
+
+	"result": { "item": "chinjufumod:block_nabeaku_bc", "data": 0, "count" : 1 }
+}
