@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "chinjufumod",
+
+	"pattern": [
+		"X",
+		"Y"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:block_plaster_green", "data": 0 },
+		"Y": { "item": "chinjufumod:block_pillar_spru_c", "data": 0 }
+	},
+
+	"result": { "item": "chinjufumod:block_ka_green_s", "data": 0, "count": 2 }
+}
