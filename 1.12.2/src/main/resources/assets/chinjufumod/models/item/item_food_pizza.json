@@ -1,0 +1,20 @@
+{
+	"parent": "chinjufumod:block/item_food_pizza",
+	"display": {
+		"gui": {
+			"rotation": [ 90, 135, 0 ],
+			"translation": [ 0, 2, 0 ],
+			"scale": [ 1.2, 1.2, 1.2 ]
+		},
+		"thirdperson_righthand": {
+			"rotation": [ 90, 135, 0 ],
+			"translation": [ 0, 5, 6 ],
+			"scale": [ 0.7, 0.7, 0.7 ]
+		},
+		"firstperson_righthand": {
+			"rotation": [ 0, 135, 0 ],
+			"translation": [ 0, 7, 0 ],
+			"scale": [ 0.7, 0.7, 0.7 ]
+		}
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"parent": "chinjufumod:block/item_kk_swordfish",
+    "display": {
+        "gui": {
+            "rotation": [ 30, 60, 0 ],
+            "translation": [ -0.5, 0.5, 0 ],
+            "scale": [ 0.5, 0.5, 0.5 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [ 90, 0, 0 ],
+            "translation": [ 0, 8.5, 4 ],
+            "scale": [ 0.5, 0.5, 0.5 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 5, 0 ],
+            "scale": [ 0.5, 0.5, 0.5 ]
+        }
+    }
+}
