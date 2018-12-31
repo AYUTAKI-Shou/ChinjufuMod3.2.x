@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "chinjufumod",
+
+	"pattern": [
+		"X",
+		"Y"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:block_plaster_cyan", "data": 0 },
+		"Y": { "item": "chinjufumod:block_pillar_oak_c", "data": 0 }
+	},
+
+	"result": { "item": "chinjufumod:block_ka_cyan_o", "data": 0, "count": 2 }
+}
