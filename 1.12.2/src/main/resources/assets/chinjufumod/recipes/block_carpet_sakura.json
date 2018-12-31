@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "chinjufumod",
+
+	"pattern": [
+		"XX"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:block_tree_sakura_flow", "data": 0 }
+	},
+
+	"result": {	"item": "chinjufumod:block_carpet_sakura", "data": 0, "count": 8 }
+}

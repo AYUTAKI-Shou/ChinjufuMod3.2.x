@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "chinjufumod",
+
+	"pattern": [
+		"XX"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:block_tree_ichoh_leaf", "data": 0 }
+	},
+
+	"result": {	"item": "chinjufumod:block_carpet_ichoh", "data": 0, "count": 8 }
+}
