@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "chinjufumod",
+
+	"ingredients": [
+		{ "item": "minecraft:sapling", "data": 0 },
+		{ "item": "minecraft:dye", "data": 1 }
+	],
+
+	"result": { "item": "chinjufumod:block_tree_kaede_nae", "data": 0, "count": 1 }
+}

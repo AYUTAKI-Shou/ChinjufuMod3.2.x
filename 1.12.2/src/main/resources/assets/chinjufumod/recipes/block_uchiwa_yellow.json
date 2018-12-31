@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "chinjufumod",
+
+	"ingredients": [
+		{ "item": "minecraft:stick" },
+		{ "item": "minecraft:paper" },
+		{ "item": "minecraft:paper" },
+		{ "item": "minecraft:dye", "data": 11 }
+	],
+
+	"result": {	"item": "chinjufumod:block_uchiwa_yellow", "data": 0, "count" : 1 }
+}

@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "chinjufumod",
+
+	"ingredients": [
+		{ "item": "minecraft:sugar" },
+		{ "item": "minecraft:stick" },
+		{ "item": "minecraft:paper" },
+		{ "item": "chinjufumod:item_chaba_green" }
+	],
+
+	"result": {	"item": "chinjufumod:block_watagashi_green", "data": 0, "count" : 1 }
+}
