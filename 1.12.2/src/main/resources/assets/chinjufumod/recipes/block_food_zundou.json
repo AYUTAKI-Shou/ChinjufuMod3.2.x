@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "chinjufumod",
+
+	"pattern": [
+		"X X",
+		"X X",
+		"XXX"
+	],
+
+	"key": {
+		"X": [{ "type": "forge:ore_dict", "ore": "ingotAluminium" },
+				{ "type": "forge:ore_dict", "ore": "ingotAluminum" }]
+	},
+
+	"result": { "item": "chinjufumod:block_food_zundou", "data": 0, "count" : 1 }
+}

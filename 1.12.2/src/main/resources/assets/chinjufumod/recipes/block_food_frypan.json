@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "chinjufumod",
+
+	"pattern": [
+		"XX ",
+		"XX ",
+		"  Y"
+	],
+
+	"key": {
+		"X": [{ "type": "forge:ore_dict", "ore": "ingotAluminium" },
+				{ "type": "forge:ore_dict", "ore": "ingotAluminum" }],
+		"Y": { "item": "minecraft:stick" }
+	},
+
+	"result": { "item": "chinjufumod:block_food_frypan", "data": 0, "count" : 1 }
+}
