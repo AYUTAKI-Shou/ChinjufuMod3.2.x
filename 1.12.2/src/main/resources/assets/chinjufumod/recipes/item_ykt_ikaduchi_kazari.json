@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "chinjufumod",
+
+	"ingredients": [
+		{ "item": "chinjufumod:block_slabhalf_kaede", "data": 0 },
+		{ "item": "minecraft:dye", "data": 14 }
+	],
+
+	"result": { "item": "chinjufumod:item_ykt_ikaduchi_kazari", "data": 0, "count": 1 }
+}

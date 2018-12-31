@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "chinjufumod",
+
+	"ingredients": [
+		{ "item": "minecraft:wooden_slab", "data": 5 },
+		{ "item": "minecraft:dye", "data": 1 },
+		{ "item": "chinjufumod:item_tanmono" }
+	],
+
+	"result": { "item": "chinjufumod:item_ykt_getadoak", "data": 0, "count": 1 }
+}

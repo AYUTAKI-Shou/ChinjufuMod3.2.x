@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "chinjufumod",
+
+	"pattern": [
+		"X Y",
+		"XXX",
+		"XXX"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:item_tanmono" },
+		"Y": { "item": "minecraft:dye", "data": 1 }
+	},
+
+	"result": { "item": "chinjufumod:item_ykt_inaduma_mini", "data": 0, "count": 1 }
+}
