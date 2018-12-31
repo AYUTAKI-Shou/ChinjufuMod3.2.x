@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "chinjufumod",
+
+	"ingredients": [
+		{ "item": "minecraft:carpet", "data": 0 },
+		{ "item": "minecraft:carpet", "data": 4 },
+		{ "item": "minecraft:carpet", "data": 14 },
+		{ "item": "minecraft:sapling", "data": 1 },
+		{ "item": "minecraft:sapling", "data": 1 }
+	],
+
+	"result": {	"item": "chinjufumod:block_xmastree", "data": 0, "count": 1 }
+}
