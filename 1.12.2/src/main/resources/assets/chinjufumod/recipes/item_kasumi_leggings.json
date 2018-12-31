@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "chinjufumod",
+
+	"ingredients": [
+		{ "item": "minecraft:iron_leggings" },
+		{ "item": "minecraft:dye", "data": 10 },
+		{ "item": "chinjufumod:item_workorder" }
+	],
+
+	"result": { "item": "chinjufumod:item_kasumi_leggings", "data": 0, "count": 1 }
+}

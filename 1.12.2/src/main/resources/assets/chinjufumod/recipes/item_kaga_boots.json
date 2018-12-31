@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "chinjufumod",
+
+	"ingredients": [
+		{ "item": "minecraft:iron_boots" },
+		{ "item": "minecraft:dye", "data": 4 },
+		{ "item": "chinjufumod:item_workorder" },
+		{ "item": "minecraft:coal", "data": 0 },
+		{ "item": "minecraft:iron_ingot" },
+		[{ "type": "forge:ore_dict", "ore": "ingotAluminium" },
+				{ "type": "forge:ore_dict", "ore": "ingotAluminum" }]
+	],
+
+	"result": { "item": "chinjufumod:item_kaga_boots", "data": 0, "count": 1 }
+}
